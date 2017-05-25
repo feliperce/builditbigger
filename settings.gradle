@@ -1,0 +1,1 @@
+include ':app', ':jokes', ':backend', ':jockeactivity'
